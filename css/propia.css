@@ -1,0 +1,78 @@
+@charset "utf-8";
+.bg_rosita {
+	background-color: #FCC0C5;
+}
+.btn_rosita {
+	background-color: #FCC0C5;
+}
+
+.bg_Fondorosita {
+	background-color: rgba(252,192,197,0.33);
+}
+
+
+.bg_imagen {
+    background-image: url(../Luna%20de%20Vainilla/Luna%20de%20Vainilla/pexels-polina-tankilevitch-4828316.jpg);
+    background-size: cover;
+    background-position: 0% 60%;
+}
+.bg_img1 {
+    background-image: url(../Luna%20de%20Vainilla/pexels-eden-fc-620771246-29821284.jpg);
+    background-size: cover;
+    background-position: 0% 70%;
+}
+.bg_img2 {
+    background-image: url(../Luna%20de%20Vainilla/pexels-rawan-ali-133113257-28122516.jpg);
+    background-size: cover;
+    background-position: 0% 55%;
+}
+.bg_img3 {
+    background-image: url(../Luna%20de%20Vainilla/pexels-polina-tankilevitch-4725659.jpg);
+    background-size: cover;
+}
+.bg_img4 {
+    background-image: url(../Luna%20de%20Vainilla/pexels-vojtech-okenka-127162-1055271.jpg);
+}
+.bg_amarillito {
+	background-color: #FEEDAA;
+}
+.btn_amarillito {
+	background-color: #FEEDAA;
+}
+.btn_amarillito:hover {
+	background-color: #FFE585;
+}
+
+
+.bg_transparente {
+	background-color: rgba(255,250,235,0.65);
+}
+.text_cafecito {
+	color: #080502;
+}
+.bg_imgfondo {
+    background-image: url(../img/fondo2.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.btn_rosota {
+	background-color: #F76A75;
+}
+.btn_rosita:hover {
+	background-color: #F76A75;
+}
+
+.bg_imgfondo2 {
+    background-image: url(../img/fondo1.jpg);
+    background-position: center -1811px;
+}
+
+h1 {
+  font-family: 'Quicksand', sans-serif;
+}
+
+Body {
+  font-family: 'Quicksand', sans-serif;
+}
+.reveal {
+}
